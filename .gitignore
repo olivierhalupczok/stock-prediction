@@ -31,7 +31,7 @@ env/
 *.ipynb_checkpoints
 
 # Data files
-data/
+# data/
 *.csv
 *.parquet
 *.h5
