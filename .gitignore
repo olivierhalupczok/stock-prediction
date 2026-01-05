@@ -47,7 +47,6 @@ data/
 *.pt
 *.pth
 *.onnx
-models/
 
 # IDE
 .idea/
@@ -72,3 +71,5 @@ htmlcov/
 # MLflow / Experiment tracking
 mlruns/
 wandb/
+
+stock_price_ann_model/
